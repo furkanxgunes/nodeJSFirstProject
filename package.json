@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "adminApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanxgunes/nodeJSFirstProject.git"
+  },
+  "keywords": [
+    "admin",
+    "demo",
+    "template"
+  ],
+  "author": "Furkan Güneş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkanxgunes/nodeJSFirstProject/issues"
+  },
+  "homepage": "https://github.com/furkanxgunes/nodeJSFirstProject#readme",
+  "devDependencies": {
+    "prettier": "2.8.3"
+  }
+}
